@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83910706782",
+    "project_id": "testinglogin-6801e",
+    "storage_bucket": "testinglogin-6801e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83910706782:android:8c1bd436e12cdfab7496cf",
+        "android_client_info": {
+          "package_name": "com.example.test_series_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT9X1NWA4pthpNQ4z7_kBf2_zm0pBQc-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
