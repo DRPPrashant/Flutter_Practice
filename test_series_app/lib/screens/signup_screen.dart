@@ -3,6 +3,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:test_series_app/reusable_widgets/reusable_widget.dart';
 import 'package:test_series_app/screens/home_screen.dart';
+import 'package:test_series_app/screens/signin_screen.dart';
 import 'package:test_series_app/utils/color_utils.dart';
 
 class SignUpScreen extends StatefulWidget {
@@ -70,7 +71,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                     .then((value) {
                   print("Create New Account");
                   Navigator.push(context,
-                      MaterialPageRoute(builder: (context) => HomeScreen()));
+                      MaterialPageRoute(builder: (context) => SignIn()));
                 }).onError((error, stackTrace) {
                   print("Error ${error.toString()}");
                 });
