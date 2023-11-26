@@ -19,6 +19,10 @@ void main() {
           child: const Center(
             child: Text(
               'Hello Jiii!',
+              style: TextStyle(
+                fontSize: 28,
+                color: Colors.white,
+              ),
             ),
           ),
         ),
