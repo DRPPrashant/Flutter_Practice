@@ -22,13 +22,22 @@ class GradientContainer extends StatelessWidget {
         ),
       ),
       child: const Center(
-        child: Text(
-          'Hello Jiii!',
-          style: TextStyle(
-            fontSize: 28,
-            color: Colors.white,
-          ),
-        ),
+        child: StyleText(),
+      ),
+    );
+  }
+}
+
+class StyleText extends StatelessWidget {
+  const StyleText({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return const Text(
+      'Hello World!',
+      style: TextStyle(
+        fontSize: 28,
+        color: Colors.white,
       ),
     );
   }
