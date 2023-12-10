@@ -44,38 +44,42 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCS6jQbd7OnQxVThiLTWAp4XSiNL28Ywkg',
-    appId: '1:83910706782:web:7f8ae513786dd0a57496cf',
-    messagingSenderId: '83910706782',
-    projectId: 'testinglogin-6801e',
-    authDomain: 'testinglogin-6801e.firebaseapp.com',
-    storageBucket: 'testinglogin-6801e.appspot.com',
-    measurementId: 'G-Y7FTPGQHTD',
+    apiKey: 'AIzaSyClrMCquRrITQuchCJPnbRmny2k3gd2FZs',
+    appId: '1:13887453116:web:c4f03fabf1e67cd0fd5db9',
+    messagingSenderId: '13887453116',
+    projectId: 'myblocflutter',
+    authDomain: 'myblocflutter.firebaseapp.com',
+    databaseURL: 'https://myblocflutter-default-rtdb.firebaseio.com',
+    storageBucket: 'myblocflutter.appspot.com',
+    measurementId: 'G-RV5H3VY6C1',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBT9X1NWA4pthpNQ4z7_kBf2_zm0pBQc-8',
-    appId: '1:83910706782:android:8c1bd436e12cdfab7496cf',
-    messagingSenderId: '83910706782',
-    projectId: 'testinglogin-6801e',
-    storageBucket: 'testinglogin-6801e.appspot.com',
+    apiKey: 'AIzaSyCHPL00FFiWA1AatMqKCopRsJAMTXK6zCI',
+    appId: '1:13887453116:android:552a4c3a0f7d9413fd5db9',
+    messagingSenderId: '13887453116',
+    projectId: 'myblocflutter',
+    databaseURL: 'https://myblocflutter-default-rtdb.firebaseio.com',
+    storageBucket: 'myblocflutter.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD0A6yvHbGC03dGNuaj0ozbi25nAmIjJC8',
-    appId: '1:83910706782:ios:923d90a41e1478647496cf',
-    messagingSenderId: '83910706782',
-    projectId: 'testinglogin-6801e',
-    storageBucket: 'testinglogin-6801e.appspot.com',
+    apiKey: 'AIzaSyB8BWOZcfZLmeHC067tqTr-avmCd-dnAYg',
+    appId: '1:13887453116:ios:08ca4002b747b6dafd5db9',
+    messagingSenderId: '13887453116',
+    projectId: 'myblocflutter',
+    databaseURL: 'https://myblocflutter-default-rtdb.firebaseio.com',
+    storageBucket: 'myblocflutter.appspot.com',
     iosBundleId: 'com.example.testSeriesApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyD0A6yvHbGC03dGNuaj0ozbi25nAmIjJC8',
-    appId: '1:83910706782:ios:ee9b1d4a1142a9167496cf',
-    messagingSenderId: '83910706782',
-    projectId: 'testinglogin-6801e',
-    storageBucket: 'testinglogin-6801e.appspot.com',
+    apiKey: 'AIzaSyB8BWOZcfZLmeHC067tqTr-avmCd-dnAYg',
+    appId: '1:13887453116:ios:15e71746e61b1e8ffd5db9',
+    messagingSenderId: '13887453116',
+    projectId: 'myblocflutter',
+    databaseURL: 'https://myblocflutter-default-rtdb.firebaseio.com',
+    storageBucket: 'myblocflutter.appspot.com',
     iosBundleId: 'com.example.testSeriesApp.RunnerTests',
   );
 }

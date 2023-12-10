@@ -1,13 +1,33 @@
 {
   "project_info": {
-    "project_number": "83910706782",
-    "project_id": "testinglogin-6801e",
-    "storage_bucket": "testinglogin-6801e.appspot.com"
+    "project_number": "13887453116",
+    "firebase_url": "https://myblocflutter-default-rtdb.firebaseio.com",
+    "project_id": "myblocflutter",
+    "storage_bucket": "myblocflutter.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:83910706782:android:8c1bd436e12cdfab7496cf",
+        "mobilesdk_app_id": "1:13887453116:android:f5e13e03cf9ae55ffd5db9",
+        "android_client_info": {
+          "package_name": "com.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHPL00FFiWA1AatMqKCopRsJAMTXK6zCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13887453116:android:552a4c3a0f7d9413fd5db9",
         "android_client_info": {
           "package_name": "com.example.test_series_app"
         }
@@ -15,7 +35,45 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBT9X1NWA4pthpNQ4z7_kBf2_zm0pBQc-8"
+          "current_key": "AIzaSyCHPL00FFiWA1AatMqKCopRsJAMTXK6zCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13887453116:android:10c90129bc08dc2cfd5db9",
+        "android_client_info": {
+          "package_name": "com.example.using_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHPL00FFiWA1AatMqKCopRsJAMTXK6zCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13887453116:android:35bceec8106c0d3cfd5db9",
+        "android_client_info": {
+          "package_name": "com.prashantsapplication.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHPL00FFiWA1AatMqKCopRsJAMTXK6zCI"
         }
       ],
       "services": {
