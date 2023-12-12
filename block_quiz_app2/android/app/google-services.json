@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "107503513510",
+    "project_id": "bloc-quiz-flutter",
+    "storage_bucket": "bloc-quiz-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107503513510:android:25e3a16266a21e19c36967",
+        "android_client_info": {
+          "package_name": "com.example.block_quiz_app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD26c9hUYWwOQfw8M2SXN-k5fZjxyuStG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107503513510:android:8d27c88f2883b2cac36967",
+        "android_client_info": {
+          "package_name": "com.pranshu.nagp_quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD26c9hUYWwOQfw8M2SXN-k5fZjxyuStG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
